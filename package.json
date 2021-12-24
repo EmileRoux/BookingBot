@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "encoding": "^0.1.13",
     "faunadb": "^2.13.1",
     "netlify-lambda": "^2.0.15"
   }
